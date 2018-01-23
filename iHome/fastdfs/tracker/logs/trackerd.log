@@ -1,0 +1,354 @@
+[2017-11-02 15:52:08] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 15:52:08] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 15:52:08] ERROR - file: sockopt.c, line: 770, bind port 22122 failed, errno: 98, error info: Address already in use.
+[2017-11-02 15:52:08] CRIT - exit abnormally!
+
+[2017-11-02 16:05:11] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:05:11] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:05:11] ERROR - file: sockopt.c, line: 770, bind port 22122 failed, errno: 98, error info: Address already in use.
+[2017-11-02 16:05:11] CRIT - exit abnormally!
+
+[2017-11-02 16:06:55] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:06:55] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:06:55] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:08:46] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:08:46] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:08:46] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:09:21] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:09:21] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:09:21] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:10:28] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:10:28] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:10:28] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:12:38] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:12:38] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:12:38] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:13:03] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:13:03] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:13:03] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:16:02] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:16:02] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:16:02] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:17:36] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:17:36] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:17:36] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:25] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:25] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:25] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:32] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:32] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:32] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:33] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:33] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:33] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:34] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:34] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:34] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:34] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:34] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:34] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:34] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:34] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:34] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:34] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:34] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:34] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:20:35] INFO - FastDFS v5.05, base_path=./fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:20:35] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:20:35] ERROR - file: shared_func.c, line: 1085, open file ./fastdfs/tracker/data/fdfs_trackerd.pid fail, errno: 2, error info: No such file or directory
+[2017-11-02 16:21:20] INFO - FastDFS v5.05, base_path=/home/liudanbing/workspace/go/src/iHome/fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:21:20] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:22:15] CRIT - file: fdfs_trackerd.c, line: 496, catch signal 15, program exiting...
+[2017-11-02 16:22:16] INFO - exit normally.
+
+[2017-11-02 16:22:17] INFO - FastDFS v5.05, base_path=/home/liudanbing/workspace/go/src/iHome/fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:22:17] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:22:17] ERROR - file: tracker_service.c, line: 597, client ip: 101.200.170.171, invalid group_name: group1
+[2017-11-02 16:24:20] CRIT - file: fdfs_trackerd.c, line: 496, catch signal 15, program exiting...
+[2017-11-02 16:24:21] INFO - exit normally.
+
+[2017-11-02 16:24:21] INFO - FastDFS v5.05, base_path=/home/liudanbing/workspace/go/src/iHome/fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-02 16:24:21] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-02 16:24:22] ERROR - file: tracker_service.c, line: 597, client ip: 101.200.170.171, invalid group_name: group1
+[2017-11-02 16:24:22] INFO - file: tracker_relationship.c, line: 383, selecting leader...
+[2017-11-02 16:24:23] INFO - file: tracker_relationship.c, line: 401, I am the new tracker leader 101.200.170.171:22122
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:02:50] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 19:09:47] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:17:01] ERROR - file: tracker_service.c, line: 2441, cmd=103, client ip: 101.200.170.171, package size 26 is not correct, expect length > 38
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-02 21:52:26] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-06 15:03:52] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-07 11:46:28] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-12 23:30:30] ERROR - file: tracker_nio.c, line: 306, client ip: 31.132.168.141, pkg length: 841887799 > max pkg size: 8192
+[2017-11-26 16:52:34] INFO - FastDFS v5.05, base_path=/home/liudanbing/workspace/go/src/iHome/fastdfs/tracker, run_by_group=, run_by_user=, connect_timeout=30s, network_timeout=60s, port=22122, bind_addr=101.200.170.171, max_connections=256, accept_threads=1, work_threads=4, store_lookup=2, store_group=, store_server=0, store_path=0, reserved_storage_space=10.00%, download_server=0, allow_ip_count=-1, sync_log_buff_interval=10s, check_active_interval=120s, thread_stack_size=64 KB, storage_ip_changed_auto_adjust=1, storage_sync_file_max_delay=86400s, storage_sync_file_max_time=300s, use_trunk_file=0, slot_min_size=256, slot_max_size=16 MB, trunk_file_size=64 MB, trunk_create_file_advance=0, trunk_create_file_time_base=02:00, trunk_create_file_interval=86400, trunk_create_file_space_threshold=20 GB, trunk_init_check_occupying=0, trunk_init_reload_from_binlog=0, trunk_compress_binlog_min_interval=0, use_storage_id=0, id_type_in_filename=ip, storage_id_count=0, rotate_error_log=0, error_log_rotate_time=00:00, rotate_error_log_size=0, log_file_keep_days=0, store_slave_file_use_link=0, use_connection_pool=0, g_connection_pool_max_idle_time=3600s
+[2017-11-26 16:52:34] INFO - local_host_ip_count: 4,  127.0.0.1  10.44.58.172  101.200.170.171  192.168.0.1
+[2017-11-26 16:52:34] INFO - file: tracker_relationship.c, line: 383, selecting leader...
+[2017-11-26 16:52:35] INFO - file: tracker_relationship.c, line: 401, I am the new tracker leader 101.200.170.171:22122
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-26 16:54:57] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 09:11:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 14:15:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:35:59] ERROR - file: tracker_service.c, line: 2441, cmd=103, client ip: 101.200.170.171, package size 26 is not correct, expect length > 38
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:48:46] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:13] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:14] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 15:51:14] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:10] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:03:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:13:14] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:05] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 16:20:18] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:39] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:42] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:48] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-27 22:30:53] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-28 13:48:39] ERROR - file: tracker_nio.c, line: 213, client ip: 47.95.219.27, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:29:54] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:32:22] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:52:36] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 10:57:31] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:38:51] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 11:45:55] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:23] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 12:10:49] ERROR - file: tracker_nio.c, line: 213, client ip: 14.130.112.43, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-11-29 14:47:31] ERROR - file: tracker_nio.c, line: 213, client ip: 101.200.170.171, recv timeout, recv offset: 0, expect length: 0
+[2017-12-14 15:31:58] CRIT - file: fdfs_trackerd.c, line: 496, catch signal 15, program exiting...
+[2017-12-14 15:31:59] INFO - exit normally.
+
